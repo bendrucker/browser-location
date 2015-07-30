@@ -1,0 +1,39 @@
+{
+  "name": "browser-location",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Geolocation for the browser with a Node-friendly API",
+  "license": "MIT",
+  "repository": "bendrucker/browser-location",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "browser",
+    "geolocation",
+    "getCurrentPosition",
+    "location",
+    "navigator"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.6.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "unsupported.js"
+  ],
+  "dependencies": {
+    "create-error-class": "~2.0.1",
+    "dezalgo": "~1.0.3",
+    "global": "~4.3.0",
+    "has-geolocation": "~1.0.0",
+    "xtend": "~4.0.0"
+  }
+}
