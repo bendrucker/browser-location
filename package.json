@@ -33,7 +33,7 @@
     "create-error-class": "~2.0.1",
     "dezalgo": "~1.0.3",
     "global": "~4.3.0",
-    "has-geolocation": "~1.0.0",
+    "has-geolocation": "~1.0.1",
     "xtend": "~4.0.0"
   }
 }
