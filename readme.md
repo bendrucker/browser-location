@@ -1,4 +1,4 @@
-# browser-location [![Build Status](https://travis-ci.org/bendrucker/browser-location.svg?branch=master)](https://travis-ci.org/bendrucker/browser-location)
+# browser-location [![Build Status](https://travis-ci.org/bendrucker/browser-location.svg?branch=master)](https://travis-ci.org/bendrucker/browser-location) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/browser-location.svg)](https://greenkeeper.io/)
 
 > Geolocation for the browser with a Node-friendly API
 
